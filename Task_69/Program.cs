@@ -6,7 +6,7 @@ namespace Project
     {
         static void Main(string[] agrs)
         {
-            void Task69()
+            void Task64()
             {
                 // Задача 64: Задайте значения M и N. Напишите рекурсивный метод, 
                 // который выведет все натуральные числа кратные 3-ём в промежутке от M до N.
@@ -24,12 +24,12 @@ namespace Project
                     M++;
                     PrintNumbers(M, N);
 
-                }
-                
+                }  
+                 
                 
             }
 
-            Task69();
+            Task64();
         }   
     }
 }
